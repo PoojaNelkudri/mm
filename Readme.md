@@ -39,3 +39,5 @@ If you're using a Linux machine, you can still install `pre-commit`, but the ins
    Use the appropriate command based on your Linux distribution.
 
 Once `pre-commit` is installed, you can proceed with setting up the pre-commit hooks for your repositories as described earlier. Remember to run `pre-commit install` in each repository after installation to set up the hooks.
+
+(chmod +x .git/hooks/pre-commit) 
